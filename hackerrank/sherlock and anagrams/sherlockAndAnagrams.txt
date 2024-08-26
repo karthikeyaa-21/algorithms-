@@ -1,0 +1,6 @@
+Algorithm:-
+The loop is repeated through all possible subloops.
+It converts each substring into its sequence of characters as a signature.
+Updates the number of each signature in the HashMap.
+It uses mathematics to count the number of anagrammatic pairs.
+For each signature appearing more than once, compute the number of pairs created by the formula n(n−1)22n(n−1), where nn is the number of substrings with the same signature
